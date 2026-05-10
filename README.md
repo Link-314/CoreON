@@ -52,7 +52,7 @@ Example:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CoreON.git
+git clone https://github.com/Link_314/CoreON.git
 ```
 
 Open the project folder:
@@ -89,4 +89,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Creat
+Link_314
